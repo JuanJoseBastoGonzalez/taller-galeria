@@ -31,7 +31,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-   
+
 }
 .grid-item:hover{
     filter: opacity(0.9);
